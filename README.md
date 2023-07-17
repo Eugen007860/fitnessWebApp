@@ -1,4 +1,5 @@
-# fitnessWebApp
+# Fitness web application.
 
-## Fitness exercises API: https://rapidapi.com/apininjas/api/exercises-by-api-ninjas/
-## Framework: Next.js
+Little web application to practice Next framework for React.
+
+### Fitness exercises API: https://rapidapi.com/apininjas/api/exercises-by-api-ninjas/
